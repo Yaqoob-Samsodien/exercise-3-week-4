@@ -42,6 +42,10 @@ let individual= {
     firstName:'Yaqoob',
     lastName:'Samsodien',
     favouriteColour:'Green',
-    favouriteGame:'Red Dead Redemption 2'
+    favouriteGame:'Red Dead Redemption 2',
+    favouriteHobbies:{
+        sports:'Kickboxing',
+        leisurely:'Gaming'
+    }
 }
 console.log(individual)
